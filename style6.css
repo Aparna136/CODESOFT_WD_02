@@ -1,0 +1,165 @@
+.Manali{
+        width:100%; height: 40%;
+        color:brown;
+        
+    }
+    .hidimba{width: 20%; height: 20%;}
+    
+    .solang{width: 20%;height: 20% ;}
+    .jogini{width: 20%;height:20%}
+    .chandrakhani{width:20%;height:20%}
+    .rohtang{width:20%;height:20%}
+    .oldmanali{width: 20%; height:20%}
+
+    .Vizag{width: 100%; height: 40%;
+    }
+    .BorraCaves{width:20%;height: 20%;}
+    .submarinemuseum{width: 20%; height: 20%;}
+    .kailashgiri{width: 20%; height: 20%;}
+    .rushikondabeach{width :20%; height: 20% ;}
+    .dolphinsnose{width:30%; height: 30%;}
+    .katikifalls{width :20%; height: 30%;}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    border-color: rgb(234, 36, 36);
+    
+    
+    
+}
+h1 {
+
+       font-family:'Georgia';
+       border: 1px solid hsl;
+       background-color: black;
+       color:rgb(233, 239, 244);
+       text-align: center;
+}
+h2 {font-family: 'Times New Roman';
+    border: 1px solid hsl;
+    background-color: brown;
+    color:aquamarine;
+    text-align: center;
+    
+}
+p{text-align: center;
+}
+d{text-align: center;
+  color:brown;
+  font-style: italic;
+  font-size: medium;
+  text-decoration: underline;
+  font-size: x-large;}
+e{color: rgb(17, 134, 42);
+  background-color: bisque;
+  font-style: inherit;
+  font-size: larger;}
+f{color: rgb(236, 16, 16);
+  text-decoration: wavy;
+  background-color: rgb(224, 181, 12);
+  font-size: xx-large;}
+g{color:aquamarine;
+  background-color: rgb(98, 83, 229);
+  font-style: inherit;
+  font-size: larger;}
+h{color: rgb(20, 212, 46);
+  background-color: rgba(165, 42, 126, 0.893);
+  font-style: inherit;
+  font-size: larger;}
+i{color: rgb(39, 17, 207);
+  background-color: aqua;
+  font-style: inherit;
+  font-size: larger;}
+j{color: rgb(234, 146, 16);
+  background-color: blue;
+  font-style: inherit;
+  font-size: larger;}
+k{color: rgb(217, 104, 33);
+  background-color: rgb(81, 219, 39);
+  font-style: inherit;
+  font-size: larger;}
+l{color: rgb(38, 71, 56);
+  text-decoration: wavy;
+  background-color: rgb(224, 181, 12);
+  font-size: xx-large;}
+m{color: rgb(72, 45, 4);
+  background-color: rgb(120, 120, 212);
+  font-style: inherit;
+  font-size: larger;}
+n{color: rgb(21, 208, 130);
+  background-color: blue;
+  font-style: inherit;
+  font-size: larger;}
+o{color: rgb(228, 107, 107);
+  background-color: rgb(50, 7, 37);
+  font-style: inherit;
+  font-size: larger;}
+q{color: rgb(26, 172, 221);
+  background-color: rgb(11, 11, 21);
+  font-style: inherit;
+  font-size: larger;}
+r{color: rgb(240, 252, 17);
+  background-color: rgb(105, 5, 5);
+  font-style: inherit;
+  font-size: larger;}
+t{color: rgb(17, 12, 70);
+  background-color: rgb(224, 41, 87);
+  font-style: inherit;
+  font-size: larger;}
+v{border: 1px solid hsl;
+  
+  background-color: rgb(217, 136, 15);}
+w{background-color: rgb(244, 141, 23);}
+  
+
+
+header,nav, section, footer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid hsl(0, 91%, 13%);
+    font-family:'Lucida sans';
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    font-family: 'Gill Sans';
+    color: rgb(245, 141, 13);
+    text-align: center;
+    font-size: medium;
+    background-color: aquamarine;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    color:rgb(35, 67, 17);
+    text-decoration-line: underline;
+}
+
+section ul {
+    list-style-type: none;
+    padding: 0%;
+    
+    color:blueviolet;
+    background-color: rgb(230, 202, 216);
+     
+
+    
+}
+
+section ul li {
+    margin-bottom: 20px;
+    background-color: blanchedalmond;
+}
+
+
+footer {
+    text-align: center;
+    color:rgb(75, 24, 64);
+    background-color: aqua;
+}
+
+
